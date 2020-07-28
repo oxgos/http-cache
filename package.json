@@ -1,0 +1,11 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "nodejs cache",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "author": "gjw",
+  "license": "ISC"
+}
